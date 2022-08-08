@@ -1,5 +1,7 @@
 # Source code for building the dog hippocampus snRNA-seq atlas
 
+> https://github.com/XingyanLiu/DogHippAtlas
+
 | directory or file | description                                       |
 |-------------------|---------------------------------------------------|
 | data              | the test data, with cluster population balanced   |
